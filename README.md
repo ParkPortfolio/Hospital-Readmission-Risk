@@ -52,3 +52,14 @@ Healthcare teams should prioritize elevated- and high-risk patients for post-dis
 - Healthcare KPI design
 - Data visualization
 - Dashboard storytelling
+
+hospital-readmission-risk-dashboard/
+│
+├── README.md
+├── dashboard/
+│   └── hospital-readmission-dashboard.png
+├── data/
+│   ├── README.md
+│   └── hospital_readmissions.csv
+└── scripts/
+    └── analysis.R
