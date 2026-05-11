@@ -14,9 +14,9 @@ Which patient groups show the highest readmission risk, and what utilization or 
 
 ## Dataset
 
-The analysis uses hospital encounter-level data containing information related to readmission status, patient risk category, prior utilization, and diagnostic burden.
+The analysis uses a public hospital readmissions dataset obtained online. The dataset contains encounter-level information related to readmission status, patient risk category, prior utilization, and diagnostic burden.
 
-Raw data are not included in this repository if restricted by size, licensing, or privacy considerations.
+The raw dataset is included in the `data/` folder for reproducibility.
 
 ## Key Metrics
 
