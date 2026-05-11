@@ -4,9 +4,9 @@ Healthcare analytics dashboard using 99,340 hospital encounters to identify pati
 
 Hospital Readmission Risk Dashboard<img width="2999" height="1687" alt="Hospital Readmission Risk Dashboard" src="https://github.com/user-attachments/assets/a0936a6e-fad5-4de0-b96f-775d5327eeaf" />
 
-## Interactive Dashboard
+## Note
 
-View the Tableau dashboard here: [Tableau Public Link](PASTE-YOUR-LINK-HERE)
+The Tableau workbook is not included in this repository. A static dashboard preview is provided, along with project documentation and analysis notes.
 
 ## Business Question
 
