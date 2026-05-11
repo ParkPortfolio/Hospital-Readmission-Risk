@@ -2,7 +2,7 @@
 # Hospital-Readmission-Risk
 Healthcare analytics dashboard using 99,340 hospital encounters to identify patient groups at higher 30-day readmission risk. Built in Tableau to highlight KPIs, risk tiers, prior utilization, diagnostic complexity, and intervention opportunities for discharge planning and follow-up care.
 
-![Hospital Readmission Risk Dashboard]<img width="2999" height="1687" alt="Hospital Readmission Risk Dashboard" src="https://github.com/user-attachments/assets/a0936a6e-fad5-4de0-b96f-775d5327eeaf" />
+Hospital Readmission Risk Dashboard<img width="2999" height="1687" alt="Hospital Readmission Risk Dashboard" src="https://github.com/user-attachments/assets/a0936a6e-fad5-4de0-b96f-775d5327eeaf" />
 
 ## Interactive Dashboard
 
